@@ -13,9 +13,9 @@ This repository contains Java programs and coding questions organized by topic t
 
 ✅ Covers basics to advanced topics
 
-✅ Useful for students preparing for placements, internships, and interviews<br>
+✅ Useful for students preparing for placements, internships, and interviews 
 
-
+<br>
 🧠 Topics Covered <br>
 
 🔸 Data Types & Variables
