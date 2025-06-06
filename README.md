@@ -1,4 +1,4 @@
-# Practice
+# Practice Core Java Coding Questions...
 📌 Daily Java Coding Questions by Topic
 Welcome to my Daily Java Coding Practice Series!
 This repository contains Java programs and coding questions organized by topic to help students and professionals strengthen their Java fundamentals and crack technical interviews.
